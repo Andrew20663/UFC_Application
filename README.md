@@ -8,3 +8,6 @@ continue to work on this and thank you very much. The final model was a Gradient
 
 The link to the dataset is here:
 https://www.kaggle.com/mdabbert/ultimate-ufc-dataset?select=upcoming-event.csv
+
+The link to the streamlit app:
+https://share.streamlit.io/andrew20663/ufc_application/main/main.py
